@@ -1,0 +1,23 @@
+table {         
+    width: 90%
+    border: 3px solid black
+}
+th {
+    padding: 5px
+    border: 3px solid black
+}
+td {
+    padding: 5px
+    border: 3px solid black
+    text-align: center
+}
+tr{
+    align-items: flex-start
+}
+p{
+    text-align: justify
+    margin: 10px
+}
+.image{
+    margin: 30px
+}
